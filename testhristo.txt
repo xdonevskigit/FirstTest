@@ -1,1 +1,5 @@
-I am Hristo
+My name is Hristo.
+I`m from Sofia.
+Photography is my favorite hobby.
+I want to improve my programming skills.
+
